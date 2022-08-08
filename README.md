@@ -64,7 +64,6 @@ This dependency in the POM.xml file tells maven to load the necessary software f
     <groupId>javax.servlet</groupId>
     <artifactId>javax.servlet-api</artifactId>
     <version>3.1.0</version>
-    <scope>provided</scope>
 </dependency>
 ```
 
